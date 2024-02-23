@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "bradlc.vscode-tailwindcss",
+        "slevesque.shader",
+        "esbenp.prettier-vscode",
+        "xaver.clang-format",
+        "vivaxy.vscode-conventional-commits",
+    ]
+}
